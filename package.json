@@ -13,5 +13,8 @@
     "deploy": "node ./deploy.js",
     "src:dev": "vuepress dev src",
     "src:build": "vuepress build src"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
