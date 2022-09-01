@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 # build
-yarn run --silent build
+yarn run --silent src:build
 
 # ビルド生成物の差分がない場合、デプロイせずに終了する
 if [ "$(git status --porcelain | wc -l | xargs)" -eq 0 ]; then
