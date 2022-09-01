@@ -2,9 +2,9 @@ version: 2
 
 jobs:
   build:
-    working_directory: ~/tmp
+    working_directory: ~/guinpen98/VuePress
     docker:
-      - image: node:9.11
+      - image: node:14.16
         environment:
           TZ: "/usr/share/zoneinfo/Asia/Tokyo"
           DEPLOY_BRANCH: main
