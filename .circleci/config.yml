@@ -7,7 +7,7 @@ jobs:
       - image: node:9.11
         environment:
           TZ: "/usr/share/zoneinfo/Asia/Tokyo"
-          DEPLOY_BRANCH: master
+          DEPLOY_BRANCH: main
 
     steps:
       - checkout
