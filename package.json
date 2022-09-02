@@ -11,7 +11,8 @@
   },
   "scripts": {
     "src:dev": "vuepress dev src",
-    "src:build": "vuepress build src"
+    "src:build": "vuepress build src",
+    "src:eject": "vuepress eject src"
   },
   "devDependencies": {
     "push-dir": "^0.4.1"
