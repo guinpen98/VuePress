@@ -8,6 +8,9 @@ module.exports = {
   },
   dest: 'docs/',
   base: '/VuePress/',
+  head: [
+    ['link', { rel: 'icon', href: '/imgs/favicon.ico' }],
+  ],
   themeConfig: {
     sidebar: 'auto',
     sidebarDepth: 2,
@@ -24,6 +27,6 @@ module.exports = {
     ]
   },
   markdown: {
-    toc: { includeLevel: [1, 2] }
+    toc: { includeLevel: [2] }
   }
 }
