@@ -45,45 +45,51 @@ sidebar: false
 
 ## 主な作品
 
-### [One Librarian](https://unityroom.com/games/one_lib)
+### [📚 One Librarian](https://unityroom.com/games/one_lib) - 1人で図書館を営業するゲーム
 詳細ページは [**こちら**](./works/OneLibrarian.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3Dアクションゲーム|1人|1ヶ月/50時間|Unity|
-#### 概要
-1人で図書館を営業するゲーム
+|3Dアクションゲーム|1人|1ヶ月, 50時間|Unity|
 [![OneLibrarian](./.vuepress/public/imgs/Vue-OneLibrarian.png)](./works/OneLibrarian.html)
 
-### [ImagiGate](https://github.com/yshi112358/Stylish-Game-Public)
+---
+
+### [⚔️ ImagiGate](https://github.com/yshi112358/Stylish-Game-Public) - 討伐目標の敵をフィールド上で探索し倒すゲーム
 詳細ページは [**こちら**](./works/ImagiGate.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |探索型アクションゲーム|4人|3ヶ月|Unity|
-#### 概要
-討伐目標の敵をフィールド上で探して倒すゲーム
 [![ImagiGate](./.vuepress/public/imgs/Vue-ImagiGate.png)](./works/ImagiGate.html)
 
-### [Savannah](https://github.com/guinpen98/Savannah)
+---
+
+### [🦓 Savannah](https://github.com/guinpen98/Savannah) - 植物、草食動物、肉食動物の生態系シミュレータ
 詳細ページは [**こちら**](./works/Savannah.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|生態系シミュレータ|1人|1週間/20時間|C++|
+|生態系シミュレータ|1人|1週間, 20時間|C++|
 [![Savannah](./.vuepress/public/imgs/Vue-Savannah.png)](./works/Savannah.html)
 
-### [InfluenceMapping](https://github.com/guinpen98/InfluenceMapping)
+---
+
+### [🌻 InfluenceMapping](https://github.com/guinpen98/InfluenceMapping) - AIの知識表現である影響マップを用いたゲーム
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|未分類|1人|1週間/15時間|C++|
+|未分類|1人|1週間, 15時間|C++|
 ![InfluenceMapping](./.vuepress/public/imgs/Vue-InfluenceMapping.png)
 
-### [Fractal](https://github.com/guinpen98/Fractal)
+---
+
+### [🌱 Fractal](https://github.com/guinpen98/Fractal) - マンデルブロ集合、バーンズリーのシダ等の描画
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|未分類|1人|1週間/10時間|C++|
+|未分類|1人|1週間, 10時間|C++|
 ![Fractal](./.vuepress/public/imgs/Vue-Fractal.png)
 
-### [2048-AI](https://github.com/guinpen98/2048-AI)
+---
+
+### [🔢 2048-AI](https://github.com/guinpen98/2048-AI) - 2048を解く強化学習をしたAI
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|パズルゲーム|1人|1週間/10時間|Python|
+|パズルゲーム|1人|1週間, 10時間|Python|
 ![2048-AI](./.vuepress/public/imgs/Vue-2048-AI.png)
