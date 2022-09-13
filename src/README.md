@@ -46,29 +46,29 @@ sidebar: false
 ## 主な作品
 
 ### [📚 One Librarian](https://unityroom.com/games/one_lib) - 1人で図書館を営業するゲーム
-詳細ページは [**こちら**](./works/OneLibrarian.html)
+詳細ページは [**こちら**](works/OneLibrarian.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |3Dアクションゲーム|1人|1ヶ月, 50時間|Unity|
-[![OneLibrarian](./.vuepress/public/imgs/Vue-OneLibrarian.png)](./works/OneLibrarian.html)
+[![OneLibrarian](./.vuepress/public/imgs/Vue-OneLibrarian.png)](works/OneLibrarian.html)
 
 ---
 
 ### [⚔️ ImagiGate](https://github.com/yshi112358/Stylish-Game-Public) - 討伐目標の敵をフィールド上で探索し倒すゲーム
-詳細ページは [**こちら**](./works/ImagiGate.html)
+詳細ページは [**こちら**](works/ImagiGate.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |探索型アクションゲーム|4人|3ヶ月|Unity|
-[![ImagiGate](./.vuepress/public/imgs/Vue-ImagiGate.png)](./works/ImagiGate.html)
+[![ImagiGate](./.vuepress/public/imgs/Vue-ImagiGate.png)](works/ImagiGate.html)
 
 ---
 
 ### [🦓 Savannah](https://github.com/guinpen98/Savannah) - 植物、草食動物、肉食動物の生態系シミュレータ
-詳細ページは [**こちら**](./works/Savannah.html)
+詳細ページは [**こちら**](works/Savannah.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |生態系シミュレータ|1人|1週間, 20時間|C++|
-[![Savannah](./.vuepress/public/imgs/Vue-Savannah.png)](./works/Savannah.html)
+[![Savannah](./.vuepress/public/imgs/Vue-Savannah.png)](works/Savannah.html)
 
 ---
 
