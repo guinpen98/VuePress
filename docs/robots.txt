@@ -1,0 +1,3 @@
+User-agent : *
+Disallow :
+Sitemap : https://guinpen98.github.io/VuePress/sitemap.xml
