@@ -9,8 +9,9 @@ module.exports = {
   dest: 'docs/',
   base: '/VuePress/',
   head: [
-    ['link', { rel: 'icon', href: '/imgs/favicon.ico' }],
-  ],
+      ['link', { rel: 'icon', href: '/imgs/favicon.ico' }],
+      ['meta', { name: 'google-site-verification', content: 'Rr04P_zo0dof8iLtrJOAPYgC-60eqppExk85NQCmxxI' }],
+    ],
   themeConfig: {
     sidebar: 'auto',
     sidebarDepth: 2,
