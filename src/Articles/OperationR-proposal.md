@@ -10,7 +10,7 @@ sidebar: false
 ## どんなゲームか
 ロボット掃除機を操作して、部屋を綺麗にしていくゲーム
 
-![Operation R Demo](../.vuepress/public/imgs/Vue-OperationR-demo.png)
+![Operation R Demo](../.vuepress/public/imgs/articles/OperationR-proposal/Vue-OperationR-demo.png)
 ## 操作方法
 - W/S - 前後移動
 - A/D - 回転
@@ -44,11 +44,11 @@ sidebar: false
 4. 犬が部屋を汚していくため、犬に近づくとより多くのごみを掃除することが出来る
 
 ## 設定資料
-![間取り図](../.vuepress/public/imgs/floor-plan.png)
+![間取り図](../.vuepress/public/imgs/articles/OperationR-proposal/floor-plan.png)
 
 ---
 
 # 📜 設計
 
 ## クラス図
-![クラス図](../.vuepress/public/imgs/OperationR-class-01.png)
+![クラス図](../.vuepress/public/imgs/articles/OperationR-proposal/OperationR-class-01.png)

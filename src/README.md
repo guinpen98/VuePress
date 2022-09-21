@@ -50,7 +50,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |3Dアクションゲーム|1人|1ヶ月, 50時間|Unity|
-[![OneLibrarian](./.vuepress/public/imgs/Vue-OneLibrarian.png)](works/OneLibrarian.html)
+[![OneLibrarian](./.vuepress/public/imgs/home/Vue-OneLibrarian.png)](works/OneLibrarian.html)
 
 ---
 
@@ -59,7 +59,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |探索型アクションゲーム|4人|3ヶ月|Unity|
-[![ImagiGate](./.vuepress/public/imgs/Vue-ImagiGate.png)](works/ImagiGate.html)
+[![ImagiGate](./.vuepress/public/imgs/home/Vue-ImagiGate.png)](works/ImagiGate.html)
 
 ---
 
@@ -68,7 +68,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |生態系シミュレータ|1人|1週間, 20時間|C++|
-[![Savannah](./.vuepress/public/imgs/Vue-Savannah.png)](works/Savannah.html)
+[![Savannah](./.vuepress/public/imgs/home/Vue-Savannah.png)](works/Savannah.html)
 
 ---
 
@@ -76,7 +76,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |未分類|1人|1週間, 15時間|C++|
-![InfluenceMapping](./.vuepress/public/imgs/Vue-InfluenceMapping.png)
+![InfluenceMapping](./.vuepress/public/imgs/home/Vue-InfluenceMapping.png)
 
 ---
 
@@ -84,7 +84,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |未分類|1人|1週間, 10時間|C++|
-![Fractal](./.vuepress/public/imgs/Vue-Fractal.png)
+![Fractal](./.vuepress/public/imgs/home/Vue-Fractal.png)
 
 ---
 
@@ -92,4 +92,4 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |パズルゲーム|1人|1週間, 10時間|Python|
-![2048-AI](./.vuepress/public/imgs/Vue-2048-AI.png)
+![2048-AI](./.vuepress/public/imgs/home/Vue-2048-AI.png)
