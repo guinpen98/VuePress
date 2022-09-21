@@ -23,6 +23,9 @@ module.exports = {
         text: '作品詳細', link: '/works/'
       },
       {
+        text: '記事', link: '/articles/'
+      },
+      {
         text: 'その他', link: '/others/'
       },
     ]

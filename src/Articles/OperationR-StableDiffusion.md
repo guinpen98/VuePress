@@ -54,7 +54,7 @@ White paint wall stucco plaster texture seamless
 
 しばらくすると何枚かのテクスチャが生成されます。
 
-![OneLibrarian](../.vuepress/public/imgs/Vue-OneLibrarian.png)
+![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/1.png)
 
 このように文章をもとにした画像が出来ました。
 
@@ -63,15 +63,15 @@ White paint wall stucco plaster texture seamless
 ## ⚖️ 品質の良い画像の選定
 生成した画像から品質の良い画像を選定する
 
-![OneLibrarian](../.vuepress/public/imgs/Vue-OneLibrarian.png)
+![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/2.png)
 
 このような画像はテクスチャとして不適切なので削除します。
 
-![OneLibrarian](../.vuepress/public/imgs/Vue-OneLibrarian.png)
+![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/3.png)
 
 穴があるものや青い点がついているものも削除します。
 
-![OneLibrarian](../.vuepress/public/imgs/Vue-OneLibrarian.png)
+![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/4.png)
 
 綺麗なテクスチャが残りました。
 
@@ -79,9 +79,21 @@ White paint wall stucco plaster texture seamless
 
 ## ⚙️ 生成したテクスチャをUnityで適用する
 
-〇〇を適用します。
+壁のマテリアルを選択して、Inspectorの中の、Albedoの横にある白い矩形にドラックアンドドロップします。
+![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/5.png)
 
+### 修正前
+真っ白でツルツルだった壁が、
 
-![OneLibrarian](../.vuepress/public/imgs/Vue-OneLibrarian.png)
+![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/6.png)
+
+### 修正後
+ザラザラした、本物の壁みたいにになりました。
+
+![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/7.png)
 
 完成です。
+
+---
+
+## 関連記事
