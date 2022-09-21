@@ -19,7 +19,9 @@ sidebar: false
 # 👷‍♂️ 工事中
 
 ## 関連記事
-[初期構想](../Articles/OperationR-proposal.md)
+- [初期構想](../articles/OperationR-proposal.md)
+- [Stable Diffusionを用いてOperation Rの壁のテクスチャを生成した話](../articles/OperationR-StableDiffusion.md)
+
 
 ## 工夫点
 

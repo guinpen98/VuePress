@@ -28,5 +28,12 @@ module.exports = {
   },
   markdown: {
     toc: { includeLevel: [2] }
-  }
+  },
+  plugins: [
+    [
+      "sitemap", {
+      hostname: "https://www.toybox-emomi.work",
+      }
+    ]
+  ],
 }
