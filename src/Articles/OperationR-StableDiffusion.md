@@ -80,6 +80,7 @@ White paint wall stucco plaster texture seamless
 ## ⚙️ 生成したテクスチャをUnityで適用する
 
 壁のマテリアルを選択して、Inspectorの中の、Albedoの横にある白い矩形にドラックアンドドロップします。
+
 ![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/5.png)
 
 ### 修正前
