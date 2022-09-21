@@ -32,7 +32,8 @@ module.exports = {
   plugins: [
     [
       "sitemap", {
-      hostname: "https://www.toybox-emomi.work",
+            hostname: "https://guinpen98.github.io/VuePress/",
+            exclude: "https://guinpen98.github.io/VuePress/404.html"
       }
     ]
   ],
