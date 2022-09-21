@@ -89,7 +89,7 @@ White paint wall stucco plaster texture seamless
 ![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/6.png)
 
 ### 修正後
-ザラザラした、本物の壁みたいにになりました。
+ザラザラした、本物の壁みたいになりました。
 
 ![OneLibrarian](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/7.png)
 
@@ -98,3 +98,4 @@ White paint wall stucco plaster texture seamless
 ---
 
 ## 関連記事
+[Operation R作品詳細](../works/OperationR.md)
