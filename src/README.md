@@ -12,7 +12,7 @@ sidebar: false
 
 ## リンク
 - [GitHub](https://github.com/guinpen98)
-- [unityroom](https://unityroom.com/games/one_lib)
+- [unityroom](https://unityroom.com/users/wg4v329mc1lrdohjey8i)
 ---
 
 ## 職歴
@@ -44,6 +44,13 @@ sidebar: false
 - Unity
 
 ## 主な作品
+
+### [🏠 Operation R](https://unityroom.com/games/operation-r) - ロボット掃除機を操作して部屋を掃除するゲーム
+詳細ページは [**こちら**](works/OperationR.html)
+|ジャンル|制作人数|制作期間|開発環境|
+|:---:|:---:|:---:|:---:|
+|3Dアクションゲーム|2人|2週間, 60時間|Unity|
+[![OneLibrarian](./.vuepress/public/imgs/home/Vue-OperationR.png)](works/OneLibrarian.html)
 
 ### [📚 One Librarian](https://unityroom.com/games/one_lib) - 1人で図書館を営業するゲーム
 詳細ページは [**こちら**](works/OneLibrarian.html)
