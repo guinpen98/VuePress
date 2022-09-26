@@ -29,7 +29,7 @@ sidebar: false
 |---|---|---|---|
 |C|1年半|100時間以上|リファレンスがあれば使用できる|
 |C++|1年|100時間以上|リファレンスがあれば使用できる|
-|Unity C#|1年|200時間|リファレンス無しで使用できる|
+|Unity C#|1年|250時間|リファレンス無しで使用できる|
 |Python|1年|20時間|リファレンスがあれば使用できる|
 |JavaScript|1年未満|10時間|趣味で触ったことがある|
 |SQL|1年未満|10時間|授業で触ったことがある|
@@ -44,6 +44,8 @@ sidebar: false
 - RStudio
 - Unity
 
+---
+
 ## 主な作品
 
 ### [🏠 Operation R](https://unityroom.com/games/operation-r) - ロボット掃除機を操作して部屋を掃除するゲーム
@@ -52,6 +54,8 @@ sidebar: false
 |:---:|:---:|:---:|:---:|
 |3Dアクションゲーム|2人|2週間, 60時間|Unity|
 [![OneLibrarian](./.vuepress/public/imgs/home/Vue-OperationR.png)](works/OneLibrarian.html)
+
+---
 
 ### [📚 One Librarian](https://unityroom.com/games/one_lib) - 1人で図書館を営業するゲーム
 詳細ページは [**こちら**](works/OneLibrarian.html)
