@@ -9,7 +9,7 @@ sidebar: false
 [[toc]]
 
 ## リンク
-- [unityroom](https://unityroom.com/games/one_lib)
+- [unityroom](https://unityroom.com/games/operation-r)
 
 ---
 ## 概要
@@ -20,12 +20,12 @@ sidebar: false
 ![OneLibrarian](../.vuepress/public/imgs/home/Vue-OperationR.png)
 
 ## 制作目的
-共同開発で自らの長所を活かすために制作中
+共同開発で自らの長所を活かすために制作
 
 ## 制作チーム
 |ハンドルネーム|役割|担当|
 |---|---|---|
-|🐧 私|プログラマ|ソースコード全般|
+|🐧 私|プログラマ|企画, ステージ制作, プログラミング|
 |🦈 きょむ|デザイナー|ロゴ制作, UIデザイン|
 
 ## 使用した技術
