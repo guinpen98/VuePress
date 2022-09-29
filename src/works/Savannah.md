@@ -8,6 +8,9 @@ sidebar: false
 ### 目次
 [[toc]]
 
+## リンク
+- [GitHub](https://github.com/guinpen98/Savannah)
+
 ## 概要
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
