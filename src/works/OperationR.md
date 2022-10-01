@@ -34,7 +34,7 @@ sidebar: false
 
 ## 関連記事
 - [初期構想](../articles/OperationR-proposal.html)
-- [Stable Diffusionを用いてOperation Rの壁のテクスチャを生成した話](../articles/OperationR-StableDiffusion.html)
+- [Stable Diffusionを用いてUnityでのゲーム制作用のテクスチャを生成した話](../articles/OperationR-StableDiffusion.html)
 - [Unityでのゲーム開発でECSの思想を取り入れた話](../articles/OperationR-ECS.html)
 
 

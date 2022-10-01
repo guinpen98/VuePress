@@ -2,7 +2,7 @@
 sidebar: false
 ---
 
-# Stable Diffusionを用いてOperation Rの壁のテクスチャを生成した話
+# Stable Diffusionを用いてUnityのゲーム制作用でのテクスチャを生成した話
 **Operation R** の情報ページは [**こちら**](../works/OperationR.md) 
 
 ## 🔨 環境構築
