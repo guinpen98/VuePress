@@ -6,7 +6,7 @@ sidebar: false
 ---
 ## [Operation R](OperationR.html)
 
-## [OneLibrarian](OneLibrarian.html)
+## [One Librarian](OneLibrarian.html)
 
 ## [ImagiGate](ImagiGate.html)
 

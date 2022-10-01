@@ -2,7 +2,7 @@
 sidebar: false
 ---
 
-# OneLibrarian
+# One Librarian
 
 ---
 ### 目次
