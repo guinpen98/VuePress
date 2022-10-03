@@ -10,6 +10,7 @@ sidebar: false
 
 ## リンク
 - [unityroom](https://unityroom.com/games/one_lib)
+- [Speaker Deck](https://speakerdeck.com/guinpen98/onelibrarian)
 
 ---
 ## 概要
