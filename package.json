@@ -16,6 +16,7 @@
     "src:eject": "vuepress eject src"
   },
   "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
     "push-dir": "^0.4.1"
   },
   "repository": "https://github.com/guinpen98/VuePress.git"

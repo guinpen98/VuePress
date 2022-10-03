@@ -12,6 +12,7 @@ module.exports = {
       ['link', { rel: 'icon', href: '/imgs/favicon.ico' }],
       ['meta', { name: 'google-site-verification', content: 'Rr04P_zo0dof8iLtrJOAPYgC-60eqppExk85NQCmxxI' }],
     ],
+  theme: '@vuepress/blog',
   themeConfig: {
     sidebar: 'auto',
     sidebarDepth: 2,
@@ -39,6 +40,7 @@ module.exports = {
             hostname: "https://guinpen98.github.io/VuePress/",
             exclude: "https://guinpen98.github.io/VuePress/404.html"
       }
-    ]
+    ],
+    ['@vuepress/blog']
   ],
 }

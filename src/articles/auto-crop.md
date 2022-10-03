@@ -1,5 +1,9 @@
 ---
 sidebar: false
+date: 2022-10-03
+description: 'Photoshopドロップレット'
+tags:
+ - 記録
 ---
 
 # Photoshopのドロップレットを用いて、複数枚の画像を自動で切り取る
