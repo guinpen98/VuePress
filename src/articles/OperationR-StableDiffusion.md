@@ -2,13 +2,13 @@
 sidebar: false
 ---
 
-# Stable Diffusionを用いてUnityのゲーム制作用でのテクスチャを生成した話
+# Stable Diffusion を用いて Unity のゲーム制作用でのテクスチャを生成した話
 **Operation R** の情報ページは [**こちら**](../works/OperationR.md) 
 
 ## 🔨 環境構築
 
 ### ローカルに環境構築
-Windowsのローカル環境にStable Diffusionの環境を構築する
+Windows のローカル環境に Stable Diffusion の環境を構築する
 
 [Stable Diffusionをローカルで使おう！〜構築から使い方まで](https://golabo.net/stable_diffusion_make_uses/)
 
@@ -79,7 +79,7 @@ White paint wall stucco plaster texture seamless
 
 ## ⚙️ 生成したテクスチャをUnityで適用する
 
-壁のマテリアルを選択して、Inspectorの中の、Albedoの横にある白い矩形にドラックアンドドロップします。
+壁のマテリアルを選択して、Inspector の中の、Albedo の横にある白い矩形にドラックアンドドロップします。
 
 ![5](../.vuepress/public/imgs/articles/OperationR-StableDiffusion/5.png)
 

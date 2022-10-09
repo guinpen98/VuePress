@@ -6,7 +6,7 @@ tags:
  - 記録
 ---
 
-# Photoshopのドロップレットを用いて、複数枚の画像を自動で切り取る
+# Photoshop のドロップレットを用いて、複数枚の画像を自動で切り取る
 
 ## ドロップレット用アクションを作成
 ### 新規アクションの作成
@@ -37,7 +37,7 @@ tags:
 
 ![6](../.vuepress/public/imgs/articles/droplet/6.png)
 
-Ctrl+Sで保存をし、ファイルを閉じます
+Ctrl+S で保存をし、ファイルを閉じます
 
 ![7](../.vuepress/public/imgs/articles/droplet/7.png)
 
