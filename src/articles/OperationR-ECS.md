@@ -9,6 +9,21 @@ sidebar: false
 [One Librarian](../works/OneLibrarian.md) の開発では、コードを書き進めていくにつれて、クラスの依存関係が複雑になってしまいました。
 その反省を活かして、[Operation R](../works/OperationR.md) を開発をする際に設計をしてみました。
 
+## オブジェクト指向はゲームに向かない？
+筆者はゲーム作りを通して、オブジェクト指向を学んでいたのですが、オブジェクト指向での設計ではどうも上手くいかないことがありました。
+
+そこで下記の記事を見つけました。
+
+[オブジェクト指向でゲームを作るのをやめよう](https://qiita.com/tshinsay/items/739ad875cc3925d51f12)
+
+この記事では、ゲームプログラミングにおいて、継承の代わりにコンポジションを扱うことの有用性について話しています。
+その際にECSについて少しだけ触れられており、もっと深掘りすることにしました。
+
+筆者はコンポジションのことをよく知らなかったのですが、広義の意味の委譲として考えられるようです。
+
+[【Unity】ゲームにおける委譲と継承、その違いと使い分け【タワーディフェンス】](https://zenn.dev/supple/articles/884d2439cd034a)
+
+
 ## ECSとは
 ECSとはEntity component systemの略で、エンティティ、コンポーネント、システムの３つからなるアーキテクチャパターン（設計の考え方のようなもの）です。
 データ指向型の設計で用いられることが多いようです。
@@ -24,6 +39,8 @@ ECSとはEntity component systemの略で、エンティティ、コンポーネ
 ![レイヤードアーキテクチャ](../.vuepress/public/imgs/articles/OperationR-ECS/architecture.svg)
 
 依存方向は上から下に一方向になっています。
+
+アプリケーション層とエンティティ層に MonoBehaviour を継承させます。
 
 ### システム間通信
 [エンティティ・コンポーネント・システム - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
@@ -54,6 +71,9 @@ public class GameRule
 ```
 GameRuleの中身を書きかえるだけで、簡単にシステム間のやりとりを組み替えることができます。
 
+### システム、エンティティ間通信
+システム間通信ではデータの送信方法として出版-講読型モデルを採用しましたが、こちらではObserverパターンを採用します。
+
 ## 🖋️ PlantUMLを用いてクラス図を書く
 [Visual Studio Code で UML を描こう！](https://qiita.com/couzie/items/9dedb834c5aff09ea7b2)
 
@@ -62,6 +82,7 @@ GameRuleの中身を書きかえるだけで、簡単にシステム間のやり
 ![クラス図](../.vuepress/public/imgs/articles/OperationR-ECS/class.svg)
 
 β版時点でのクラス図はこんな感じです。
+PlantUMLで綺麗にクラス図を書くのは、なかなか難しいですね．．．
 
 ---
 
