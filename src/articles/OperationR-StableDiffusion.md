@@ -5,6 +5,10 @@ sidebar: false
 # Stable Diffusion を用いて Unity のゲーム制作用でのテクスチャを生成した話
 **Operation R** の情報ページは [**こちら**](../works/OperationR.md) 
 
+## はじめに
+
+この記事では、ローカルでの環境構築やシームレステクスチャを生成する方法、Unity に適用する手順について話します。
+
 ## 🔨 環境構築
 
 ### ローカルに環境構築
