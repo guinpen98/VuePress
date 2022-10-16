@@ -6,6 +6,7 @@ sidebar: false
 
 ## 対話ゲーム開発日記
 - [キャラクターの描画（1回目）](HITO-diary1.html)
+- [対話ゲームについて](HITO-diary2.html)
 
 ## Unity ゲーム開発
 - [Operation R 初期企画書](OperationR-proposal.html)
