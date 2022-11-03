@@ -4,6 +4,9 @@ sidebar: false
 
 # 作品詳細
 ---
+
+## [HITO](HITO.html)
+
 ## [Operation R](OperationR.html)
 
 ## [One Librarian](OneLibrarian.html)
