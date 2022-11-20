@@ -84,6 +84,14 @@ sidebar: false
 
 ---
 
+### [🎨 PaintMuseum](https://github.com/guinpen98/PaintMuseum) - 美出間の絵画の中を探索するゲーム
+|ジャンル|制作人数|制作期間|開発環境|
+|:---:|:---:|:---:|:---:|
+|パズルアクションゲーム|6人|30時間|Unity|
+[![PaintMuseum](./.vuepress/public/imgs/home/Vue-PaintMuseum.png)](https://github.com/guinpen98/PaintMuseum)
+
+---
+
 ### [🌻 InfluenceMapping](https://github.com/guinpen98/InfluenceMapping) - AIの知識表現である影響マップを用いたゲーム
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
