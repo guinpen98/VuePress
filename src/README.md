@@ -48,6 +48,15 @@ sidebar: false
 
 ## 主な作品
 
+### [🗣️ HITO](https://github.com/guinpen98/HITO) - キャラクターとお話するゲーム
+詳細ページは [**こちら**](works/HITO.html)
+|ジャンル|制作人数|制作期間|開発環境|
+|:---:|:---:|:---:|:---:|
+|対話ゲーム|1人|2022年9月～|C++|
+[![HITO](./.vuepress/public/imgs/home/Vue-HITO.png)](works/HITO.html)
+
+---
+
 ### [🏠 Operation R](https://unityroom.com/games/operation-r) - ロボット掃除機を操作して部屋を掃除するゲーム
 詳細ページは [**こちら**](works/OperationR.html)
 |ジャンル|制作人数|制作期間|開発環境|

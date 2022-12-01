@@ -17,6 +17,10 @@ sidebar: false
 |対話ゲーム|1人|2022年9月～|C++|
 ![HITO](../.vuepress/public/imgs/articles/HITO-diary/1/3.gif)
 
+## 使用ライブラリ
+- Siv3D
+- MeCab
+
 ## 対話ゲーム開発日記
 - [キャラクターの描画（1回目）](../articles/HITO-diary1.html)
 - [対話ゲームについて](../articles/HITO-diary2.html)
