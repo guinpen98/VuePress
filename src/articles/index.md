@@ -8,6 +8,9 @@ sidebar: false
 - [キャラクターの描画（1回目）](HITO-diary1.html)
 - [対話ゲームについて](HITO-diary2.html)
 
+## C++ 開発
+- [VS Code で C++ のビルド環境を整える](vscode-cmake.html)
+
 ## Unity ゲーム開発
 - [Operation R 初期企画書](OperationR-proposal.html)
 - [Stable Diffusion を用いて Unity でのゲーム制作用のテクスチャを生成した話](OperationR-StableDiffusion.html)
