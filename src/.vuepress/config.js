@@ -46,11 +46,20 @@ module.exports = {
       }
     ],
     ['@vuepress/blog'],
-    ['@vuepress/last-updated'],
+    ['latex'],
+    ['@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          const moment = require('moment');
+          moment.locale(lang);
+          return moment(timestamp).fromNow();
+        }
+      }
+    ],
     [
       '@vuepress/google-analytics',
       {
-        ga: 'G-YMZESLTY06', // 自身のトラッキングIDを設定
+        ga: 'UA-251497122-1', // 自身のトラッキングIDを設定
       },
     ]
   ],
