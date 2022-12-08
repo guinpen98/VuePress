@@ -56,12 +56,6 @@ module.exports = {
         }
       }
     ],
-    ['smooth-scroll'],
-    [
-      '@vuepress/google-analytics',
-      {
-        ga: 'UA-251497122-1', // 自身のトラッキングIDを設定
-      },
-    ]
+    ['smooth-scroll']
   ],
 }
