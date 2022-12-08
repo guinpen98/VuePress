@@ -42,7 +42,10 @@ module.exports = {
     [
       "sitemap", {
             hostname: "https://guinpen98.github.io/VuePress/",
-            exclude: "https://guinpen98.github.io/VuePress/404.html"
+            exclude: "https://guinpen98.github.io/VuePress/404.html",
+            dateFormatter: val => {
+              return new Date().toISOString()
+            }
       }
     ],
     ['@vuepress/blog'],
