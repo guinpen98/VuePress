@@ -15,7 +15,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |生態系シミュレータ|1人|1週間, 20時間|C++|
-[![Savannah](../.vuepress/public/imgs/home/Vue-Savannah.png)
+![Savannah](../.vuepress/public/imgs/home/Vue-Savannah.png)
 
 ## 制作目的
 行動意思決定アルゴリズムのステートベースAIの試用のために制作
@@ -31,3 +31,5 @@ sidebar: false
 
 ## 今後の展望
 - 集団行動の追加
+- 各生物のステータス表示
+- 追跡モード
