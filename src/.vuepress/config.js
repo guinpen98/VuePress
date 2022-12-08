@@ -32,7 +32,11 @@ module.exports = {
     ]
   },
   markdown: {
-    toc: { includeLevel: [2] }
+    toc: { includeLevel: [2] },
+    anchor: {
+      permalinkSymbol: '#'
+    },
+    linkify: true
   },
   plugins: [
     [
@@ -41,6 +45,13 @@ module.exports = {
             exclude: "https://guinpen98.github.io/VuePress/404.html"
       }
     ],
-    ['@vuepress/blog']
+    ['@vuepress/blog'],
+    ['@vuepress/last-updated'],
+    [
+      '@vuepress/google-analytics',
+      {
+        ga: 'UA-251497122-1', // 自身のトラッキングIDを設定
+      },
+    ]
   ],
 }
