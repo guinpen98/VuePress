@@ -50,7 +50,7 @@ module.exports = {
     [
       '@vuepress/google-analytics',
       {
-        ga: 'UA-251497122-1', // 自身のトラッキングIDを設定
+        ga: 'G-YMZESLTY06', // 自身のトラッキングIDを設定
       },
     ]
   ],
