@@ -94,10 +94,11 @@ sidebar: false
 ---
 
 ### [🏙️ ImageContents1](https://github.com/HotariTobu/ImageContents1/tree/develop) - 点群データを処理して、VRMLで出力するプログラム
+詳細ページは [**こちら**](works/ImageContents1.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-||5人|2022年9月～|C++|
-![ImageContents1](./.vuepress/public/imgs/home/Vue-ImageContents1.png)
+|3DCG|5人|2022年9月～|C++|
+[![ImageContents1](./.vuepress/public/imgs/home/Vue-ImageContents1.png)](works/ImageContents1.html)
 
 ---
 
@@ -105,7 +106,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |パズルゲーム|1人|1週間, 10時間|Python|
-![2048-AI](./.vuepress/public/imgs/home/Vue-2048-AI.png)
+[![2048-AI](./.vuepress/public/imgs/home/Vue-2048-AI.png)](https://github.com/guinpen98/2048-AI)
 
 ---
 
@@ -121,7 +122,7 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |未分類|1人|1週間, 15時間|C++|
-![InfluenceMapping](./.vuepress/public/imgs/home/Vue-InfluenceMapping.png)
+[![InfluenceMapping](./.vuepress/public/imgs/home/Vue-InfluenceMapping.png)](https://github.com/guinpen98/InfluenceMapping)
 
 ---
 
@@ -129,4 +130,4 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |未分類|1人|1週間, 10時間|C++|
-![Fractal](./.vuepress/public/imgs/home/Vue-Fractal.png)
+[![Fractal](./.vuepress/public/imgs/home/Vue-Fractal.png)](https://github.com/guinpen98/Fractal)
