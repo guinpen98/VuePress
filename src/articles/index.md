@@ -18,3 +18,4 @@ sidebar: false
 
 ## その他
 - [Photoshop のドロップレットを用いて、複数枚の画像を自動で切り取る](auto-crop.html)
+- [VuePress で使える Markdown チートシート](vuepress-markdown.html)
