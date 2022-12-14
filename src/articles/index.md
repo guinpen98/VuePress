@@ -7,6 +7,8 @@ sidebar: false
 ## 対話ゲーム開発日記
 - [キャラクターの描画（1回目）](HITO-diary1.html)
 - [対話ゲームについて](HITO-diary2.html)
+## 対話システム
+- [rinna 社が構築した GPT-2 モデルを使ってみる](GPT-2.html)
 
 ## C++ 開発
 - [VS Code で C++ のビルド環境を整える](vscode-cmake.html)
