@@ -49,7 +49,7 @@ GPT-2を使って文章を生成していきます。
 
 ### ライブラリのインストール
 GPT-2 が含まれるライブラリ transformers をインストールします。
-また、transformers.T5Tokenizer をテキストをトークンに分割する際に試用するのでライブラリ sentencepiece も一緒にインストールします。
+また、transformers.T5Tokenizer をテキストをトークンに分割する際に使用するのでライブラリ sentencepiece も一緒にインストールします。
 
 ```bash
 !pip install transformers
