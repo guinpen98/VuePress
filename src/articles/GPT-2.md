@@ -33,7 +33,7 @@ GPT-2 には、OpenAI で公開された4つのバージョンがあります。
 1. Large
 1. X-Large
 
-バージョンによって、デコーダーのレイヤー数、埋め込みサイズ、アテンションヘッドの数などが違います。モデルが大きいほど、性能が高いです。
+バージョンによって、デコーダーのレイヤー数、埋め込みサイズ、アテンションヘッドの数などが違います。モデルが大きいほど性能が高いです。
 
 ![4](../.vuepress/public/imgs/articles/GPT-2/4.png)
 
@@ -118,9 +118,9 @@ for sentence in generated_sentences:
 かなり自然に文章が生成されていますね。
 「num_return_sequences」を 3 に設定しているので、文章が 3 個生成されました。
 
-### GPU 対応
-#### コード
-GPU で処理を行いたい場合はコードを以下の通りに書きかえます。
+## GPU 対応
+### コードを書きかえる
+GPU で処理を行いたい場合は、コードを以下の通りに書きかえます。
 ```python
 import torch
 from transformers import T5Tokenizer, AutoModelForCausalLM
