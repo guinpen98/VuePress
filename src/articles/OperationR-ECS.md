@@ -6,8 +6,8 @@ sidebar: false
 **Operation R** の情報ページは [**こちら**](../works/OperationR.md) 
 
 ## はじめに
-[One Librarian](../works/OneLibrarian.md) の開発では、コードを書き進めていくにつれて、クラスの依存関係が複雑になってしまいました。
-その反省を活かして、[Operation R](../works/OperationR.md) を開発をする際に設計をしてみました。
+Unity で個人開発したゲーム [One Librarian](../works/OneLibrarian.md) の開発では、コードを書き進めていくにつれて、クラスの依存関係が複雑になってしまいました。
+その反省から、デザインパターンなどを勉強して、[Operation R](../works/OperationR.md) を開発をする際に設計をしてみました。
 
 ## オブジェクト指向はゲームに向かない？
 筆者はゲーム作りを通して、オブジェクト指向を学んでいたのですが、オブジェクト指向での設計ではどうも上手くいかないことがありました。
