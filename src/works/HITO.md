@@ -24,3 +24,8 @@ sidebar: false
 ## 対話ゲーム開発日記
 - [キャラクターの描画（1回目）](../articles/HITO-diary1.html)
 - [対話ゲームについて](../articles/HITO-diary2.html)
+
+## 対話システム 記事
+- [rinna 社が構築した GPT-2 モデルを使ってみる](../articles/GPT-2.html)
+- [Common Lisp を触る](../articles/Lisp.html)
+- [文脈自由文法と構文解析](../articles/phrase-structure-grammar.html)
