@@ -153,7 +153,7 @@ for sentence in generated_sentences:
 ```
 一番初めに PyTorch をインポートします。
 #### Google Colaboratory の設定
-Google Colaboratoryで GPU を使用する場合は「ラインタイム」→「ランタイムのタイプを変更」→ハードウェア アクセラレータを「GPU」にします。
+Google Colaboratory で GPU を使用する場合は「ラインタイム」→「ランタイムのタイプを変更」→ハードウェア アクセラレータを「GPU」にします。
 
 ![1](../.vuepress/public/imgs/articles/GPT-2/1.png)
 ![2](../.vuepress/public/imgs/articles/GPT-2/2.png)
