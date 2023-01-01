@@ -17,7 +17,7 @@ Unity で個人開発したゲーム [One Librarian](../works/OneLibrarian.md) �
 [オブジェクト指向でゲームを作るのをやめよう](https://qiita.com/tshinsay/items/739ad875cc3925d51f12)
 
 この記事では、ゲームプログラミングにおいて、継承の代わりにコンポジションを扱うことの有用性について話しています。
-その際にECSについて少しだけ触れられており、もっと深掘りすることにしました。
+その際に ECS について少しだけ触れられており、もっと深掘りすることにしました。
 
 筆者はコンポジションのことをよく知らなかったのですが、広義の意味の委譲として考えられるようです。
 
@@ -25,7 +25,7 @@ Unity で個人開発したゲーム [One Librarian](../works/OneLibrarian.md) �
 
 
 ## ECSとは
-ECS とは Entity component system の略で、エンティティ、コンポーネント、システムの３つからなるアーキテクチャパターン（設計の考え方のようなもの）です。
+ECS とは Entity component system の略で、エンティティ、コンポーネント、システムの 3 つからなるアーキテクチャパターン（設計の考え方のようなもの）です。
 データ指向型の設計で用いられることが多いようです。
 
 [Entity Component Systemについてまとめてみる](https://mikan-daisuki.hatenablog.com/entry/2015/10/22/220439)
@@ -34,7 +34,7 @@ ECS とは Entity component system の略で、エンティティ、コンポー
 
 ## 📜 設計をする
 ### レイヤーを分ける
-エンティティ層、コンポーネント層、システム層のほかにアプリケーション層、データ層の5層のレイヤーに分けました。
+エンティティ層、コンポーネント層、システム層のほかにアプリケーション層、データ層の 5 層のレイヤーに分けました。
 
 ![レイヤードアーキテクチャ](../.vuepress/public/imgs/articles/OperationR-ECS/architecture.svg)
 
@@ -81,7 +81,7 @@ GameRule の中身を書きかえるだけで、簡単にシステム間のや�
 
 ![クラス図](../.vuepress/public/imgs/articles/OperationR-ECS/class.svg)
 
-β版時点でのクラス図はこんな感じです。
+β 版時点でのクラス図はこんな感じです。
 PlantUML で綺麗にクラス図を書くのは、なかなか難しいですね．．．
 
 ---
