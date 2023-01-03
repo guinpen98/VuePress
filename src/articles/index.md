@@ -20,6 +20,8 @@ sidebar: false
 - [Stable Diffusion を用いて Unity でのゲーム制作用のテクスチャを生成した話](OperationR-StableDiffusion.html)
 - [Unityでのゲーム開発でECSの思想を取り入れた話](OperationR-ECS.html)
 
+## 設計
+- [プログラミングパラダイム](paradigm.html)
 ## その他
 - [Photoshop のドロップレットを用いて、複数枚の画像を自動で切り取る](auto-crop.html)
 - [VuePress のチートシート](vuepress-markdown.html)
