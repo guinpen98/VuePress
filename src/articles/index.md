@@ -22,6 +22,10 @@ sidebar: false
 
 ## 設計
 - [プログラミングパラダイム](paradigm.html)
+
+## データ構造
+- [連結リスト](linked-list.html)
+
 ## その他
 - [Photoshop のドロップレットを用いて、複数枚の画像を自動で切り取る](auto-crop.html)
 - [VuePress のチートシート](vuepress-markdown.html)
