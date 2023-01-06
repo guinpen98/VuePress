@@ -1,6 +1,6 @@
 ---
 sidebar: false
-date: 2023-01
+date: 2023-01-04
 description: '連結リスト'
 tags:
  - 記録
