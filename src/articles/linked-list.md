@@ -34,8 +34,7 @@ public:
             return;
         }
         std::shared_ptr<Node> last_node = head;
-        while (last_node->next != nullptr)
-        {
+        while (last_node->next != nullptr){
             last_node = last_node->next;
         }
         last_node->next = new_node;
@@ -46,8 +45,7 @@ public:
     }
     void print(){
         std::shared_ptr<Node> current_node = head;
-        while (current_node != nullptr)
-        {
+        while (current_node != nullptr){
             std::cout<<current_node->data<<" ";
             current_node = current_node->next;
         }
@@ -145,8 +143,7 @@ public:
             return;
         }
         std::shared_ptr<Node> current_node = head;
-        while (current_node->next != nullptr)
-        {
+        while (current_node->next != nullptr){
             current_node = current_node->next;
         }
         current_node->next = new_node;
@@ -164,8 +161,7 @@ public:
     }
     void print(){
         std::shared_ptr<Node> current_node = head;
-        while (current_node != nullptr)
-        {
+        while (current_node != nullptr){
             std::cout<<current_node->data<<" ";
             current_node = current_node->next;
         }
