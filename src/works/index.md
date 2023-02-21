@@ -7,6 +7,8 @@ sidebar: false
 
 ## [HITO](HITO.html)
 
+## [PAX SAPIENTICA](PAXS.html)
+
 ## [Operation R](OperationR.html)
 
 ## [One Librarian](OneLibrarian.html)

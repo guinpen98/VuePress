@@ -32,16 +32,15 @@ sidebar: false
 |C++|1年|200時間|リファレンスがあれば使用できる|
 |C|1年半|100時間|リファレンスがあれば使用できる|
 |Python|1年|40時間|リファレンスがあれば使用できる|
-|R|1年|30時間|授業で触ったことがある|
 |GLSL|1年未満|10時間|趣味で触ったことがある|
 
 ### 開発ツール
-- MySQL
 - Anaconda
+- CMake
+- Docker
+- MySQL
 - .NET
 - Unity
-- Docker
-- CMake
 
 ---
 
@@ -53,6 +52,15 @@ sidebar: false
 |:---:|:---:|:---:|:---:|
 |対話ゲーム|1人|2022年9月～|C++|
 [![HITO](./.vuepress/public/imgs/home/Vue-HITO.png)](works/HITO.html)
+
+---
+
+### [💀 PAX SAPIENTICA](https://github.com/AsPJT/PAX_SAPIENTICA) - 歴史シミュレータ
+詳細ページは [**こちら**](works/PAXS.html)
+|ジャンル|制作人数|制作期間|開発環境|
+|:---:|:---:|:---:|:---:|
+|歴史シミュレーション|2人|2023年2月〜|C++|
+[![PAXS](./.vuepress/public/imgs/home/Vue-PAXS.png)](works/PAXS.html)
 
 ---
 
