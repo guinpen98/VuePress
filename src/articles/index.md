@@ -22,6 +22,7 @@ sidebar: false
 
 ## 設計
 - [プログラミングパラダイム](paradigm.html)
+- [VS Code でPlantUML を使う](plant-uml-mac.html)
 
 ## データ構造
 - [連結リスト](linked-list.html)
