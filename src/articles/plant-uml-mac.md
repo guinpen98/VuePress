@@ -5,7 +5,7 @@ description: 'VS Code でPlantUML を使う'
 tags:
  - 記録
 ---
-# VS Code でPlantUML を使う
+# VS Code で PlantUML を使う
 ### 目次
 [[toc]]
 
