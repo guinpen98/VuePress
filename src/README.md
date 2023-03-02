@@ -104,7 +104,7 @@ sidebar: false
 詳細ページは [**こちら**](works/ImageContents1.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3DCG|5人|2022年9月～|C++|
+|3DCG|5人|4ヶ月|C++|
 [![ImageContents1](./.vuepress/public/imgs/home/Vue-ImageContents1.png)](works/ImageContents1.html)
 
 ---

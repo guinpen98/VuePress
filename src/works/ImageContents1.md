@@ -14,7 +14,7 @@ sidebar: false
 ## 概要
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3DCG|5人|2022年9月～|C++|
+|3DCG|5人|4ヶ月|C++|
 ![1](../.vuepress/public/imgs/works/ImageContents1/1.png)
 
 ## 制作目的
