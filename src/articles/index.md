@@ -20,6 +20,9 @@ sidebar: false
 - [Stable Diffusion を用いて Unity でのゲーム制作用のテクスチャを生成した話](OperationR-StableDiffusion.html)
 - [Unityでのゲーム開発でECSの思想を取り入れた話](OperationR-ECS.html)
 
+## Web開発
+- [docker環境でDjangoアプリ開発](django.html)
+
 ## 設計
 - [プログラミングパラダイム](paradigm.html)
 - [VS Code でPlantUML を使う](plant-uml-mac.html)
