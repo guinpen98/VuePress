@@ -26,3 +26,4 @@ sidebar: false
 ## 使用ライブラリ
 - OpenCV
 - Siv3D
+- SFML

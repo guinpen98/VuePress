@@ -14,6 +14,7 @@ sidebar: false
 
 ## C++ 開発
 - [VS Code で C++ のビルド環境を整える](vscode-cmake.html)
+- [C++ で SFML を使って描画を行う](sfml.html)
 
 ## Unity ゲーム開発
 - [Operation R 初期企画書](OperationR-proposal.html)
