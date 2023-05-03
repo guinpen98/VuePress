@@ -5,16 +5,16 @@ sidebar: false
 # 作品詳細
 ---
 
-## [HITO](HITO.html)
+## [🗣️ HITO](HITO.html)
 
-## [PAX SAPIENTICA](PAXS.html)
+## [🏙️ ImageContents1](ImageContents1.html)
 
-## [Operation R](OperationR.html)
+## [⚔️ ImagiGate](ImagiGate.html)
 
-## [One Librarian](OneLibrarian.html)
+## [📚 One Librarian](OneLibrarian.html)
 
-## [ImagiGate](ImagiGate.html)
+## [🏠 Operation R](OperationR.html)
 
-## [Savannah](Savannah.html)
+## [💀 PAX SAPIENTICA](PAXS.html)
 
-## [ImageContents1](ImageContents1.html)
+## [🦓 Savannah](Savannah.html)

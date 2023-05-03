@@ -45,7 +45,7 @@ VS Code 上で PlantUML のプラグインをインストールします。
 ## 使ってみる
 ファイルの拡張子は`wsd, pu, puml, plantuml, iuml`に対応しています。
 
-```
+```plantuml
 @startuml
 abstract        abstract
 abstract class  "abstract class"
@@ -64,6 +64,14 @@ interface       interface
 `Option + d`を押すとプレビューを表示できます。
 
 ![2](../.vuepress/public/imgs/articles/plant-uml-mac/2.png)
+
+プレビュー上で赤い!マークが表示されて `Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.` という警告文が出てきたら、VS Code の設定に下記を追加します。
+```json
+"plantuml.server": "http://www.plantuml.com/plantuml",
+"plantuml.render": "PlantUMLServer",
+"plantuml.jarArgs": ["-Djava.awt.headless=true", "-Dplantuml.include.path=/Library/Fonts/"]
+```
+`plantuml.jarArgs`の`plantuml.include.path`パラメータは、フォントファイルがインストールされているディレクトリに合わせて変更してください。
 
 ## 画像で保存する
 `command + shift + p`でコマンドパレットを表示し、`plantuml`と入力します。
