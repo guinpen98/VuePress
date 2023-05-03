@@ -16,7 +16,7 @@ sidebar: false
 ## 概要
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3Dアクションゲーム|1人|1ヶ月, 50時間|Unity|
+|3Dアクションゲーム|1人|2022年5月〜2022年7月, 50時間|Unity|
 ![OneLibrarian](../.vuepress/public/imgs/home/Vue-OneLibrarian.png)
 
 ## 制作目的

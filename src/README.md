@@ -58,7 +58,7 @@ sidebar: false
 詳細ページは [**こちら**](works/OperationR.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3Dアクションゲーム|2人|2週間|Unity|
+|3Dアクションゲーム|2人|2022年9月〜2022年10月, 60時間|Unity|
 [![OneLibrarian](./.vuepress/public/imgs/home/Vue-OperationR.png)](works/OneLibrarian.html)
 
 ---
@@ -67,7 +67,7 @@ sidebar: false
 詳細ページは [**こちら**](works/ImagiGate.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|探索型アクションゲーム|4人|3ヶ月|Unity|
+|探索型アクションゲーム|4人|2021年7月〜2021年10月|Unity|
 [![ImagiGate](./.vuepress/public/imgs/home/Vue-ImagiGate.png)](works/ImagiGate.html)
 
 ---
@@ -84,7 +84,7 @@ sidebar: false
 ### [🔢 2048-AI](https://github.com/guinpen98/2048-AI) - 2048を解く強化学習をしたAI
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|パズルゲーム|1人|1週間|Python|
+|パズルゲーム|1人|2022年2月|Python|
 [![2048-AI](./.vuepress/public/imgs/home/Vue-2048-AI.png)](https://github.com/guinpen98/2048-AI)
 
 ---
@@ -93,7 +93,7 @@ sidebar: false
 詳細ページは [**こちら**](works/OneLibrarian.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3Dアクションゲーム|1人|1ヶ月|Unity|
+|3Dアクションゲーム|1人|2022年5月〜2022年7月, 50時間|Unity|
 [![OneLibrarian](./.vuepress/public/imgs/home/Vue-OneLibrarian.png)](works/OneLibrarian.html)
 
 ---
@@ -102,7 +102,7 @@ sidebar: false
 詳細ページは [**こちら**](works/ImageContents1.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3DCG|5人|4ヶ月|C++|
+|3DCG|5人|2022年9月〜2023年1月|C++|
 [![ImageContents1](./.vuepress/public/imgs/home/Vue-ImageContents1.png)](works/ImageContents1.html)
 
 ---
@@ -111,7 +111,7 @@ sidebar: false
 詳細ページは [**こちら**](works/Savannah.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|生態系シミュレータ|1人|1週間|C++|
+|生態系シミュレータ|1人|2021年12月〜2022年1月|C++|
 [![Savannah](./.vuepress/public/imgs/home/Vue-Savannah.png)](works/Savannah.html)
 
 ---
@@ -119,7 +119,7 @@ sidebar: false
 ### [🎨 PaintMuseum](https://github.com/guinpen98/PaintMuseum) - 美術館の絵画の中を探索するゲーム
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|パズルアクションゲーム|6人|2週間|Unity|
+|パズルアクションゲーム|6人|2022年9月|Unity|
 [![PaintMuseum](./.vuepress/public/imgs/home/Vue-PaintMuseum.png)](https://github.com/guinpen98/PaintMuseum)
 
 ---
@@ -127,7 +127,7 @@ sidebar: false
 ### [🌻 InfluenceMapping](https://github.com/guinpen98/InfluenceMapping) - AIの知識表現である影響マップを用いたゲーム
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|未分類|1人|1週間|C++|
+|未分類|1人|2022年2月|C++|
 [![InfluenceMapping](./.vuepress/public/imgs/home/Vue-InfluenceMapping.png)](https://github.com/guinpen98/InfluenceMapping)
 
 ---
@@ -135,5 +135,5 @@ sidebar: false
 ### [🌱 Fractal](https://github.com/guinpen98/Fractal) - マンデルブロ集合、バーンズリーのシダ等の描画
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|未分類|1人|1週間|C++|
+|未分類|1人|2022年2月|C++|
 [![Fractal](./.vuepress/public/imgs/home/Vue-Fractal.png)](https://github.com/guinpen98/Fractal)

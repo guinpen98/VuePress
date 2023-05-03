@@ -4,9 +4,6 @@ sidebar: false
 
 # 記事一覧
 
-## 対話ゲーム開発日記
-- [キャラクターの描画（1回目）](HITO-diary1.html)
-- [対話ゲームについて](HITO-diary2.html)
 ## 対話システム
 - [rinna 社が構築した GPT-2 モデルを使ってみる](GPT-2.html)
 - [Common Lisp を触る](Lisp.html)
@@ -20,6 +17,10 @@ sidebar: false
 - [Operation R 初期企画書](OperationR-proposal.html)
 - [Stable Diffusion を用いて Unity でのゲーム制作用のテクスチャを生成した話](OperationR-StableDiffusion.html)
 - [Unityでのゲーム開発でECSの思想を取り入れた話](OperationR-ECS.html)
+
+## 対話ゲーム開発日記
+- [キャラクターの描画（1回目）](HITO-diary1.html)
+- [対話ゲームについて](HITO-diary2.html)
 
 ## Web開発
 - [docker環境でDjangoアプリ開発](django.html)

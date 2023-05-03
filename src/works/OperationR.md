@@ -17,7 +17,7 @@ sidebar: false
 
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3Dアクションゲーム|2人|2週間, 60時間|Unity|
+|3Dアクションゲーム|2人|2022年9月〜2022年10月, 60時間|Unity|
 ![OneLibrarian](../.vuepress/public/imgs/home/Vue-OperationR.png)
 
 ## 制作目的

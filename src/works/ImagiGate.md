@@ -11,7 +11,7 @@ sidebar: false
 ## 概要
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|探索型アクションゲーム|4人|3ヶ月|Unity|
+|探索型アクションゲーム|4人|2021年7月〜2021年10月|Unity|
 ![ImagiGate](../.vuepress/public/imgs/home/Vue-ImagiGate.png)
 
 ## 制作目的
