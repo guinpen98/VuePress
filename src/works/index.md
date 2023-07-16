@@ -18,3 +18,5 @@ sidebar: false
 ## [💀 PAX SAPIENTICA](PAXS.html)
 
 ## [🦓 Savannah](Savannah.html)
+
+## [🐟 Fish Troop](FishTroop.html)

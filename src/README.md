@@ -54,6 +54,15 @@ sidebar: false
 
 ---
 
+### [🐟 Fish Troop](works/FishTroop.html) - 小型ドローンの群れの攻撃を避けながら敵のコアを破壊するゲーム
+詳細ページは [**こちら**](works/FishTroop.html)
+|ジャンル|制作人数|制作期間|開発環境|
+|:---:|:---:|:---:|:---:|
+|3Dシューティングゲーム|5人|2023年4月〜2022年7月|Unity|
+[![FishTroop](./.vuepress/public/imgs/home/Vue-FishTroop.png)](works/FishTroop.html)
+
+---
+
 ### [🏠 Operation R](https://unityroom.com/games/operation-r) - ロボット掃除機を操作して部屋を掃除するゲーム
 詳細ページは [**こちら**](works/OperationR.html)
 |ジャンル|制作人数|制作期間|開発環境|
