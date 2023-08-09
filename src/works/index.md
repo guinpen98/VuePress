@@ -5,6 +5,8 @@ sidebar: false
 # 作品詳細
 ---
 
+## [🐟 Fish Troop](FishTroop.html)
+
 ## [🗣️ HITO](HITO.html)
 
 ## [🏙️ ImageContents1](ImageContents1.html)
@@ -19,4 +21,4 @@ sidebar: false
 
 ## [🦓 Savannah](Savannah.html)
 
-## [🐟 Fish Troop](FishTroop.html)
+## [💞 異世界tapple](IsekaiTapple.html)

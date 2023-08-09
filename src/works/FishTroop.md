@@ -5,7 +5,7 @@ sidebar: false
 # Fish Troop
 ---
 
-目次
+### 目次
 [[toc]]
 
 ## リンク
@@ -15,6 +15,9 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |3Dシューティングゲーム|5人|2023年4月〜2022年7月|Unity|
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YjhAAt8Ro10" title="FishTroop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![FishTroop](../.vuepress/public/imgs/home/Vue-FishTroop.png)
 ![1](../.vuepress/public/imgs/works/FishTroop/1.png)
 ![2](../.vuepress/public/imgs/works/FishTroop/2.png)

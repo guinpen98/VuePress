@@ -5,7 +5,7 @@ sidebar: false
 # PAX SAPIENTICA
 ---
 
-目次
+### 目次
 [[toc]]
 
 ## リンク
