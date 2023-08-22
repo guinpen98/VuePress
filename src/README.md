@@ -27,6 +27,7 @@ sidebar: false
 |会社名|時期|種類|
 |---|---|---|
 |CyberAgent|2023年8月|3days Hackathon|
+|コーエーテクモ|2023年8月|2days インターンシップ|
 
 ## 経験のある分野
 
