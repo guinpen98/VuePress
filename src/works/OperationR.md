@@ -9,8 +9,8 @@ sidebar: false
 [[toc]]
 
 ## リンク
-- [unityroom](https://unityroom.com/games/operation-r)
 - [Speaker Deck](https://speakerdeck.com/guinpen98/operation-r)
+- [unityroom](https://unityroom.com/games/operation-r)
 
 ---
 ## 概要
