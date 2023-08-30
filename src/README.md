@@ -140,6 +140,12 @@ sidebar: false
 
 ---
 
+### [🎶 Rhythm DJ](https://unityroom.com/games/rhythm-dj) - リズムに合わせてビートを刻み、フロアを沸かすゲーム
+|ジャンル|制作人数|制作期間|開発環境|
+|:---:|:---:|:---:|:---:|
+|リズムゲーム|5人|2日間|Unity|
+[![RhythmDJ](./.vuepress/public/imgs/home/Vue-RhythmDJ.png)](https://unityroom.com/games/rhythm-dj)
+
 ### [🎨 PaintMuseum](https://github.com/guinpen98/PaintMuseum) - 美術館の絵画の中を探索するゲーム
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
