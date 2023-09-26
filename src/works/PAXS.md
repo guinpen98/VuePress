@@ -15,7 +15,8 @@ sidebar: false
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
 |歴史シミュレーション|2人|2023年2月〜|C++|
-[![PAXS](../.vuepress/public/imgs/home/Vue-PAXS-20230527.png)](works/PAXS.html)
+[![PAXS](../.vuepress/public/imgs/home/Vue-PAXS-20230527.png)](https://github.com/AsPJT/PAX_SAPIENTICA)
+[![AndroidSudio](../.vuepress/public/imgs/works/PAXS/PAX_SAPIENTICA2023-09-23.20.54.32.png)](https://github.com/AsPJT/PAX_SAPIENTICA)
 
 ## 制作チーム
 ||役割|担当|
@@ -29,10 +30,7 @@ sidebar: false
 - SFML
 
 ## プラットフォーム
-クロスプラットフォーム(Windows, macOS, Linux)
-
-## コードの規模
-1000行程度（2023年5月時点）
+クロスプラットフォーム(Windows, macOS, Linux, Android)
 
 ## 制作動機
 無料のエージェントベースシミュレーション（ABS）ツールが少なく、地理情報システムの機能を搭載しているツールはほとんど無かったため作成中。
