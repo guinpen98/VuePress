@@ -10,6 +10,7 @@ sidebar: false
 
 ## リンク
 - [GitHub](https://github.com/AsPJT/PAX_SAPIENTICA)
+- [Speaker Deck](https://speakerdeck.com/guinpen98/pax-sapientica)
 
 ## 概要
 |ジャンル|制作人数|制作期間|開発環境|
