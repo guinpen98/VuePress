@@ -75,7 +75,7 @@ sidebar: false
 詳細ページは [**こちら**](works/FishTroop.html)
 |ジャンル|制作人数|制作期間|開発環境|
 |:---:|:---:|:---:|:---:|
-|3Dシューティングゲーム|5人|2023年4月〜2022年7月|Unity|
+|3Dシューティングゲーム|5人|2023年4月〜2023年7月|Unity|
 [![FishTroop](./.vuepress/public/imgs/home/Vue-FishTroop.png)](works/FishTroop.html)
 
 ---
