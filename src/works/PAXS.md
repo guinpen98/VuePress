@@ -10,6 +10,7 @@ sidebar: false
 
 ## リンク
 - [GitHub](https://github.com/AsPJT/PAX_SAPIENTICA)
+- [Google Play](https://play.google.com/store/apps/details?id=com.aspjt.mahoroba)
 - [Speaker Deck](https://speakerdeck.com/guinpen98/pax-sapientica)
 
 ## 概要
