@@ -94,11 +94,11 @@ ninja-win.zip をダウンロードします。
 ここにninja.exeファイルのあるアドレスを入力します。
 
 ## VS Code での操作
-今回使用するテストコードは [GitHub](https://github.com/guinpen98/CMake_Test) においてあります。
+今回使用するテストコードは [GitHub](https://github.com/guinpen98/CMakeTest) においてあります。
 
 ディレクトリ構成はこんな感じです
 ```
-CMake_Test/
+CMakeTest/
          ├ test.h
          ├ test_main.cpp
          └ CMakeLists.txt
