@@ -80,6 +80,15 @@ sidebar: false
 
 ---
 
+### [🐲 Replicant Day](works/ReplicantDay.html) - Kinectを使って操作する、裸眼3D立体視のシューティングゲーム
+詳細ページは [**こちら**](works/ReplicantDay.html)
+|ジャンル|制作人数|制作期間|開発環境|
+|:---:|:---:|:---:|:---:|
+|3Dシューティングゲーム|4人|2024年4月〜2024年7月|Unity|
+[![ReplicantDay](./.vuepress/public/imgs/home/Vue-ReplicantDay.png)](works/ReplicantDay.html)
+
+---
+
 ### [🏠 Operation R](https://unityroom.com/games/operation-r) - ロボット掃除機を操作して部屋を掃除するゲーム
 詳細ページは [**こちら**](works/OperationR.html)
 |ジャンル|制作人数|制作期間|開発環境|
