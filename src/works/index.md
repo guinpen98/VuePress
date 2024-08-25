@@ -21,6 +21,8 @@ sidebar: false
 
 ## [💀 PAX SAPIENTICA](PAXS.html)
 
+## [🐲 Replicant Day](ReplicantDay.html)
+
 ## [🦓 Savannah](Savannah.html)
 
 ## [💞 異世界tapple](IsekaiTapple.html)
